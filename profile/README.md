@@ -1,8 +1,8 @@
-# Algorithmic Business Research Lab (ABIZ) @HSLU 👩‍💻 👨‍💻
+# Applied AI Research Lab (AAI) @HSLU 👩‍💻 👨‍💻
 
-The Algorithmic Business Research Lab (ABIZ) is a leading research unit at the Lucerne University of Applied Science and Arts (HSLU) in the field of data science and industrial machine learning. We develop innovative products and services for our industry partners blending state-of-the-art artificial intelligence with dedicated business models. Besides research and development the team offers consulting services, on-site training, auditing and coaching in the broad area of artificial intelligence, machine learning and data analytics for digital business. 
+The Applied AI Research Lab (AAI) is a leading research unit at the Lucerne University of Applied Science and Arts (HSLU) in the field of data science and industrial machine learning. We develop innovative products and services for our industry partners by leveraging state-of-the-art artificial intelligence approaches. Besides research and development the team offers consulting services, on-site training, auditing and coaching in the broad area of artificial intelligence, machine learning and data analytics.
 
-➡️ [Learn more about the staff at ABIZ and explore our latest publications and projects](https://www.hslu.ch/en/lucerne-school-of-information-technology/research/team-algorithmic-business-1/)
+➡️ [Learn more about the staff at AAI and explore our latest publications and projects](https://www.hslu.ch/en/lucerne-school-of-information-technology/research/labs/applied-ai/?sourceurl=/aai)
 
 ➡️ [Learn more about our activities in medical engineering](https://www.hslu.ch/en/lucerne-university-of-applied-sciences-and-arts/research/medtech-kooperation/?sourceurl=/medtech)
 
